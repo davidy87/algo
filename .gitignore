@@ -2,7 +2,7 @@
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
-.idea/
+.ideagit branch -M main
 
 ### Eclipse ###
 .apt_generated
