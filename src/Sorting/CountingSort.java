@@ -11,7 +11,7 @@ public class CountingSort {
         int maxVal = Arrays.stream(arr).max().getAsInt();
         int[] result = countingSort(arr, maxVal);
 
-        System.out.println("After: " + Arrays.toString(result));
+        System.out.println("After: " + Arrays.toString(result) + "\n");
     }
 
     private static int[] countingSort(int[] arr, int n) {

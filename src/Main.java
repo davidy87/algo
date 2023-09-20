@@ -16,6 +16,7 @@ public class Main {
 
         HeapSort.doSort(arr);
         CountingSort.doSort(arr);
+        RadixSort.doSort(arr);
     }
 
 }
