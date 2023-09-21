@@ -1,6 +1,4 @@
-import Sorting.*;
-
-import java.util.Arrays;
+import sorting.*;
 
 
 public class Main {
